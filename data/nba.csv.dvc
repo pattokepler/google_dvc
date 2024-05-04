@@ -1,5 +1,5 @@
 outs:
-- md5: 36ce1eca3dbe16e72605d1b72c629df7
-  size: 32823
+- md5: 710536522b87e2d9da3b9af4f16e4c81
+  size: 126
   hash: md5
   path: nba.csv
