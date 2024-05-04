@@ -1,2 +1,6 @@
+[core]
+    remote = myremote
 ['remote "nba"']
     url = gdrive://1jZJs0UrbWXPj-vAiy6DQOrnJiLdFnRsD
+['remote "myremote"']
+    url = gdrive://1_fKh9eABQsKOvnh8n5olPcycY6NBqzfM
